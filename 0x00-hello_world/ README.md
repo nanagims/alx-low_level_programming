@@ -1,0 +1,1 @@
+This project contains different files with scripts for runs files through preprocessor, compiles them, generates assembly codes, executables and basics programs c.

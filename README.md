@@ -1,0 +1,1 @@
+This repository is about to learn the basics about c.  

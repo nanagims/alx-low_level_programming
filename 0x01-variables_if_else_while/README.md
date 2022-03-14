@@ -1,0 +1,1 @@
+In this projct, i learned about logical, arithmethical, and boolean operators0. i also learned about conditions and loop stuff most of all if else conditions and for loop .I worked with putchar function , printf also.

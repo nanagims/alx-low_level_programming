@@ -1,4 +1,4 @@
-#include <ctype.h>
+#include "main.h"
 
 /**
  * print_square - Prints a squareusing the character #.
